@@ -1,0 +1,8 @@
+OLLAMA_HOST=localhost:8080 ollama serve
+
+curl http://localhost:11434/api/generate -d '{"model": "llama3.1", "keep_alive": 0}'
+
+TCC/chatbot-ollama/utils/app/const.ts
+TCC/chatbot-ollama/types/ollama.ts
+
+npm run dev
