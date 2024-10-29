@@ -1,1 +1,3 @@
 source ~/miniconda3/bin/activate
+
+https://huggingface.co/blog/pretraining-bert
